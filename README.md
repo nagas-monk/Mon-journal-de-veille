@@ -1,7 +1,8 @@
 <!-- Modèle d'une entrée du journal de veille : copiez ce bloc en haut de README.md à chaque veille. -->
 # MON JOURNAL DE VEILLE
-
-
+[google](https://www.google.com)
+[yahoo](https://www.yahoo.com)
+[mdn](https://www.mdn.com)
 ## 30/10/2026 - Les mots de passe
 
  **Source** : [CNIL](https://www.cnil.fr/fr/mots-de-passe-recommandations-pour-maitriser-sa-securite)
