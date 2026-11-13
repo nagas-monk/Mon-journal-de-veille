@@ -9,3 +9,11 @@
 - **Ce que j'ai appris** D'apres l'acnil les fuites ou hacks de bases de donees se multiplient, donc par consequence il y a de plus en plus de fuite de mot de passe des utilisateurs. suite a cela la CNIL a mis a jour sa recommendation pour permetre au entreprises de mieux securiser leurs mots de passe ou d'elaborer des mots de passe plus solides et moins a risque d'etre compromis.
 - **Pourquoi c'est utile pour un développeur web** Dans le cadre du developement web il faut faire attention a la securisation des base de donees (bien securiser ses mot de passe et autres donees sensibles)
 - **Ce que je vais faire ou vérifier** il faut regulierement verifier si il y a eu des fuites de donnees liee a son adresse mail et utiliser un gestionaire de mot de passe permetant d'utiliser des long mots de passes aleatoires sans avoir a les retenir
+
+
+## 13/11/2026 — Baseline (compatibility)
+
+- **Source** : [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) 
+- **Ce que j'ai appris** : les navigateurs permettent differentes fonctions en fonction des versions et des types de plug-in ect supportées par chaque navigateur.
+- **Pourquoi c'est utile pour un développeur web** : cela regroupe le developement web a travers differents navigateurs populaires, dont des API, CSS et JavaScript
+- **Ce que je vais faire ou vérifier** : continuer a utliser et a me renseigner sur la baseline accesibility
